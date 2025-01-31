@@ -6,8 +6,6 @@ This script helps extract tables from PDF files and saves them as Excel files.
 I created this tool to help process financial and business PDFs that contain 
 important tabular data.
 
-Author: [Your Name]
-Created: January 2025
 """
 
 import os
