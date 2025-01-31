@@ -38,8 +38,7 @@ That's it! The tool will:
 
 Want to save files somewhere else? No problem:
 ```python
-python pdf_extractor.py your_file.pdf --output-dir my_folder
-like : python3 pdf_extractor.py stock_market_dataset.pdf 
+python pdf_extractor.py your_file.pdf --output-dir my_folder 
 ```
 
 ## The Code
@@ -54,13 +53,6 @@ I chose these packages because they're reliable and get the job done:
 - `pdfplumber`: For reading PDFs and finding tables
 - `pandas`: For handling the table data
 - `openpyxl`: For creating Excel files
-
-## Testing
-
-To run the tests:
-```bash
-pytest tests/
-```
 
 ## Need Help?
 
