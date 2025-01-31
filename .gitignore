@@ -38,3 +38,8 @@ output/
 
 # Logs
 *.log
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
